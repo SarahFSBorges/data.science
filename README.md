@@ -24,7 +24,7 @@ See you.
 
 **Links:**
 * [Blog]([https://sites.google.com/view/resume-sarah-borges/main-page)
-* [LinkedIn]([https://www.linkedin.com/in/sarah-francisca-de-souza-borges-msc/)
+* [LinkedIn]([https://www.linkedin.com/in/sarah-borges-msc/)
 * [Medium](https://www.medium.com)
 
 
