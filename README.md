@@ -23,13 +23,14 @@ See you.
 **Background in:** Python, SQL, R, Project and Risk Management.
 
 **Links:**
-* [Blog]([https://sites.google.com/view/resume-sarah-borges/main-page)
-* [LinkedIn]([https://www.linkedin.com/in/sarah-borges-msc/)
+* [Blog](https://sites.google.com/view/resume-sarah-borges/main-page)
+* [LinkedIn](https://www.linkedin.com/in/sarah-borges-msc/)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 [Em construção ...]
+
 * **Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
