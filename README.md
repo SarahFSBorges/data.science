@@ -9,7 +9,7 @@ Portfólio de Projetos Data Science
 </p>
 
 # Sarah Borges
-<sub>*Program Assistent* at AKAER Engineering Center</sub>
+<sub>*Program Assistent* at AKAER Engineering </sub>
 
 Hi! I'm Sarah Borges.
 I created this site to share my knowledge, experience and get new contacts.
