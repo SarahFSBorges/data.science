@@ -25,7 +25,7 @@ See you.
 **Links:**
 * [Blog](https://sites.google.com/view/resume-sarah-borges/main-page)
 * [LinkedIn](https://www.linkedin.com/in/sarah-borges-msc/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@sarahfsborges2021)
 
 
 ## Projetos:
