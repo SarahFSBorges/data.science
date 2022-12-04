@@ -27,14 +27,3 @@ See you.
 * [LinkedIn](https://www.linkedin.com/in/sarah-borges-msc/)
 * [Medium](https://medium.com/@sarahfsborges2021)
 
-
-## Projetos:
-[Em construção ...]
-
-* **Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Tratamento de Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Dados desbalanceados:** https://bit.ly/2ZlaNsV
