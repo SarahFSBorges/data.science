@@ -20,6 +20,6 @@ See you.
 **Background in:** Python, SQL, R, Project and Risk Management.
 
 **Links:**
-* [Blog](https://sites.google.com/view/resume-sarah-borges/main-page)
+* [Site](https://sites.google.com/view/resume-sarah-borges/main-page)
 * [LinkedIn](https://www.linkedin.com/in/sarah-borges-msc/)
 * [Medium](https://medium.com/@sarahfsborges2021)
