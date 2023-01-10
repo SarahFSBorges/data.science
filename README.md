@@ -10,8 +10,9 @@ Portfólio de Projetos Data Science
 
 Hi! I'm Sarah Borges.
  
-I have a Master in Science (Technological Management area) from ITA (2019), a Technologist in Logistics from FATEC Prof. Jessen Vidal (2013) and a Technician in Logistics from ETEC Machado de Assis (2010). 
+I have a Master in Science (Technological Management) from ITA (2019), a Technologist in Logistics from FATEC Prof. Jessen Vidal (2013) and a Technician in Logistics from ETEC Machado de Assis (2010). 
 I am also certified as Project Management Full Stack - PMF and Green Belt Lean Six Sigma by Escola DNC (2022).
+
 My focus are the areas of Project Management and Risk Analysis.
 
 Best regards.
